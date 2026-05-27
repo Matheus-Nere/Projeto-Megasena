@@ -1,0 +1,1 @@
+O meu primeiro projeto "caseiro", fiz ele para testar minhas habilidades atuais. O intuito desse codigo é simular uma loteria, você informa quantos "bilhetes" quer e ele te entrega 6 numeros aleatorios de 1-60 por "bilhete".
