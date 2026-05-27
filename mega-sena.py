@@ -29,3 +29,5 @@ print("os jogos sorteados foram:")
 for i in sorteios:
     print(sorteios[i])
 print()
+
+input("Pressione Enter para sair...")
